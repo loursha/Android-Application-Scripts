@@ -26,3 +26,6 @@ Use below two js file based on apk SSL Pinning security checks,
 **To Bypass Root Detection and SSL Pinning in Single shot use below Script**
 
 - frida_root_ssl_pinning_bypass.js
+
+
+[Steps to Bypass Security Checks.pdf](https://github.com/loursha/Android-Application-Scripts/files/6887671/Steps.to.Bypass.Security.Checks.pdf)
